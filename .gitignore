@@ -1,0 +1,12 @@
+client/.firebase
+client/node_modules
+client/build
+client/.env
+client/.firebaserc
+client/.git
+client/package-lock.json
+server/node_modules
+server/.env
+server/.git
+server/package-lock.json
+mongo.json
